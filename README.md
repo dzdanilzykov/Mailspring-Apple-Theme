@@ -5,7 +5,7 @@ I used Jamie Wilson’s (http://jamiewilson.io) Darkside theme as a base templat
 
 Only tested on linux gnome.
 Whitesur
-![Preview](/whitsur.png)
+![Preview](/whitesur.png)
 
 Standart apple-mail
 ![Preview](/apple-mail.png)
