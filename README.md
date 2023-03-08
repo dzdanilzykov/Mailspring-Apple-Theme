@@ -3,11 +3,13 @@ This Mailspring theme is based on Apple Mail (iMail/iCloud Mail)
 I used Jamie Wilson’s (http://jamiewilson.io) Darkside theme as a base template.
 
 
-Only tested on Windows.
-![Preview](/Preview1.0.1.png)
-My Mailspring community post
+Only tested on linux gnome.
+Whitesur
+![Preview](/whitsur.png)
 
-https://community.getmailspring.com/t/apple-theme-for-mailspring/5583
+Standart apple-mail
+![Preview](/apple-mail.png)
+
 
 **Requirements:**
 
