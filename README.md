@@ -1,5 +1,6 @@
-This Mailspring theme is based on Apple Mail (iMail/iCloud Mail)
+This fork was created to fix problems on linux. There are 2 versions to choose from, one with standard window control buttons and whitesur, which matches perfectly with the whitesur gtk theme, which features modified window control buttons. See screenshots on the page.
 
+This Mailspring theme is based on Apple Mail (iMail/iCloud Mail)
 
 Only tested on linux gnome.
 Whitesur
