@@ -10,6 +10,10 @@ Standart apple-mail
 ![Preview](/apple-mail.png)
 
 
+My Mailspring community post
+
+https://community.getmailspring.com/t/apple-theme-for-mailsprong-linux/6398
+
 **Requirements:**
 
 Requires Mailspring avatars addon*
